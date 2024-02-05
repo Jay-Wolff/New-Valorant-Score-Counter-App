@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ScoreCounterApp</string>
+    <string name="buttonTeamOne">Team1</string>
+    <string name="buttonTeamTwo">Team2</string>
+    <string name="teamCountOne">0</string>
+    <string name="teamCountTwo">0</string>
+    <string name="WinningTeam">team</string>
+    <string name="howMuchWonBy">TextView</string>
+    <string name="sageName">SAGE</string>
+    <string name="omenName">OMEN</string>
+    <string name="backButton">BACK</string>
+    <string name="callButton">Call</string>
+    <string name="messageButton">Message</string>
+    <string name="mapButton">Map</string>
+    <string name="MessageText">Name</string>
+    <string name="messages_header">Change Your Player</string>
+    <string name="signature_title">Pick Team Name</string>
+    <string name="reply_title">Pick player</string>
+    <string name="sync_header">winner image</string>
+    <string name="sync_title">Pick Winner Image</string>
+    <string name="attachment_title">Medal</string>
+    <string name="action_settings">actionSettings</string>
+    <string name="signature">signature</string>
+    <string name="attachment_summary_off">attachmentSummaryOff</string>
+    <string name="attachment_summary_on">attachmentSummaryOn</string>
+    <string name="imageName">Pick Winner Image</string>
+    <string name="number">number</string>
+    <string name="typeNumber">Type Number</string>
+    <string name="text">Type Number You Wish to Message</string>
+</resources>
